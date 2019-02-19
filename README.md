@@ -1,4 +1,4 @@
-# ProgramTimeTracker
+# pTimeTrack
 ### A program that tracks the usage of programs.
 
 *Installation:*
